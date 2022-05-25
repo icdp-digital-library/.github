@@ -1,10 +1,10 @@
 # Piano nazionale e Linee guida
 
- - [Piano Nazionale Digitalizzazione](https://github.com/italia/ICDP-PND-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+ - [Piano nazionale di digitalizzazione del parimonio culturale](https://github.com/italia/ICDP-PND-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ICDP-PND-docs" alt="GitHub issues">\
     Piano nazionale di digitalizzazione del patrimonio culturale
     
- - digitalizzazione-patrimonio  
+ - [digitalizzazione-patrimonio](https://github.com/italia/ICDP-PND-digitalizzazione-docs)  
   Linee guida per la digitalizzazione del patrimonio culturale
 
 - Linee guida di gestione dei dati
