@@ -5,7 +5,7 @@
 # Il PND
 
 - [Piano nazionale di digitalizzazione del parimonio culturale (PND)](https://github.com/italia/ICDP-PND-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
-  <img align="right" src="https://img.shields.io/github/issues/italia/ICDP-PND-docs" alt="GitHub issues">\
+  <img align="right" src="https://img.shields.io/github/issues/italia/ICDP-PND-docs" alt="GitHub issues">
     Il PND è la visione strategica con la quale il Ministero della Cultura intende promuovere e organizzare il processo di trasformazione digitale degli istituti della cultura nel periodo 2022-2026.  Il PND si compone di 5 allegati tecnici sotto forma di linee guida operative, che supportano la pianificazione e l’esecuzione delle attività legate alla digitalizzazione del patrimonio culturale.
 
 # Le linee guida
