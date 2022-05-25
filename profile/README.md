@@ -1,24 +1,26 @@
-# Piano nazionale e Linee guida
+# Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 
- - [Piano nazionale di digitalizzazione del parimonio culturale](https://github.com/italia/ICDP-PND-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
+- Lista ordinata dei documenti che costituiscono il PND.
+
+# Il PND
+
+- [Piano nazionale di digitalizzazione del parimonio culturale (PND)](https://github.com/italia/ICDP-PND-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-docs?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
   <img align="right" src="https://img.shields.io/github/issues/italia/ICDP-PND-docs" alt="GitHub issues">\
-    Piano nazionale di digitalizzazione del patrimonio culturale
+    Il PND è la visione strategica con la quale il Ministero della Cultura intende promuovere e organizzare il processo di trasformazione digitale degli istituti della cultura nel periodo 2022-2026.  Il PND si compone di 5 allegati tecnici sotto forma di linee guida operative, che supportano la pianificazione e l’esecuzione delle attività legate alla digitalizzazione del patrimonio culturale.
+
+# Le linee guida
     
- - [digitalizzazione-patrimonio](https://github.com/italia/ICDP-PND-digitalizzazione-docs)  
-  Linee guida per la digitalizzazione del patrimonio culturale
+- [1. Linee guida per la digitalizzazione del patrimonio culturale](https://github.com/italia/ICDP-PND-digitalizzazione-docs)  
+    Questo documento, dal carattere informativo e non prescrittivo, definisce gli approcci e le procedure per la creazione, la metadatazione e la conservazione degli oggetti digitali.
 
-- Linee guida di gestione dei dati
+- [2. Linee guida per la redazione del Piano di gestione dei dati](https://github.com/italia/ICDP-PND-dmp-docs)
+    Questo documento ha l’obiettivo di definire il percorso per costruire piani di gestione dei dati (Data Management Plan) che specifichino come descrivere, analizzare, archiviare, condividere e conservare i dati dei progetti di digitalizzazione del patrimonio culturale e delle banche date esistenti.
 
-    Linee guida per la redazione del Piano di gestione dei dati
+- [3. Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale](https://github.com/italia/ICDP-PND-circolazione-riuso-docs)
+    Questo documento chiarisce le norme che disciplinano l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale.
 
-    lg-acquisizione-circolazione-riuso-riproduzioni
+- [4. Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione](https://github.com/italia/ICDP-PND-servizi-docs)
+    Partendo dalle diverse tipologie dei beni culturali e dal loro potenziale di valorizzazione, questo documento individua e descrive le diverse tassonomie e mappature di processi e servizi menzionate nel PND.
 
-    Linee guida per l’acquisizione, la circolazione e il riuso delle riproduzioni dei beni culturali in ambiente digitale
-
-    lg-prodotti-e-servizi-digitali-processi-modelli-di-gestione
-
-    Linee guida per la classificazione di prodotti e servizi digitali, processi e modelli di gestione
-
-    lg-metodologia-valutazione-maturità-digitale
-
-    Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali
+- [5. Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali](https://github.com/italia/ICDP-PND-maturita-docs)
+    Il documento illustra i modelli di digital maturity assessment adottabili per gli istituti culturali.
