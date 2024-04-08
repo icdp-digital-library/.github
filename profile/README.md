@@ -1,7 +1,14 @@
 # Istituto Centrale per la Digitalizzazione del Patrimonio culturale - Digital Library
 
 Benvenuti sulla pagina GitHub dell'ICDP (Istituto Centrale per la Digitalizzazione del Patrimonio culturale) - Digital Library!  
-  Su questa pagina è possibile trovare documentazione prodotta dall'istituto utile ai fini dei processi di digitalizzaizione del patrimonio culturale.
+  Su questa pagina è possibile trovare documentazione prodotta dall'istituto utile per progettare, governare, eseguire e monitorare i processi di digitalizzazione del patrimonio culturale.
+
+  
+## Documentazione tecnica
+
+In questa sezione è possibile reperire documentazione tecnica di varia natura. 
+-[Profilo applicativo METS ECO-MiC](https://github.com/icdp-digital-library/profilo-mets-ecomic)
+Profilo applicativo per la metadatazione delle risorse digitali relative ai beni culturali del Ministero della Cultura.
 
 ## Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 
@@ -27,8 +34,3 @@ Le Linee guida supportano la pianificazione e l’esecuzione delle attività leg
 
 5. [Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali](https://github.com/italia/ICDP-PND-maturita-docs) <img align="right" src="https://img.shields.io/github/stars/italia/ICDP-PND-maturita-docs" alt="GitHub stars"> <img align="right" src="https://img.shields.io/github/issues/italia/ICDP-PND-maturita-docs" alt="GitHub issues"><br>
   Il documento illustra i modelli di digital maturity assessment adottabili per gli istituti culturali.
-
-## Documentazione tecnica
-
-In questa sezione è possibile reperire documentazione tecnica di vario tipo.
-
