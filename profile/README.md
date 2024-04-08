@@ -1,7 +1,7 @@
 # Istituto Centrale per la Digitalizzazione del Patrimonio culturale - Digital Library
 
-Benvenuti sulla pagina GitHub dell'**ICDP (Istituto Centrale per la Digitalizzazione del Patrimonio culturale) - Digital Library**.
-  Su questa pagina è possibile trovare documentazione prodotta dall'istituto utile per progettare, governare, eseguire e monitorare i processi di digitalizzazione del patrimonio culturale.
+Benvenuti sulla pagina GitHub dell'**ICDP (Istituto Centrale per la Digitalizzazione del Patrimonio culturale) - Digital Library**.  
+Su questa pagina è possibile trovare documentazione prodotta dall'istituto utile per progettare, governare, eseguire e monitorare i processi di digitalizzazione del patrimonio culturale.
 
   
 ## Documentazione tecnica
