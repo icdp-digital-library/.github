@@ -7,7 +7,8 @@ Benvenuti sulla pagina GitHub dell'ICDP (Istituto Centrale per la Digitalizzazio
 ## Documentazione tecnica
 
 In questa sezione è possibile reperire documentazione tecnica di varia natura. 
--[Profilo applicativo METS ECO-MiC](https://github.com/icdp-digital-library/profilo-mets-ecomic)
+
+- **[Profilo applicativo METS ECO-MiC](https://github.com/icdp-digital-library/profilo-mets-ecomic)**  
 Profilo applicativo per la metadatazione delle risorse digitali relative ai beni culturali del Ministero della Cultura.
 
 ## Piano nazionale di digitalizzazione del patrimonio culturale (PND)
