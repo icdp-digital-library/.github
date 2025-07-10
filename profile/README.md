@@ -9,10 +9,10 @@ Su questa pagina è possibile trovare documentazione prodotta dall'istituto util
 In questa sezione è possibile reperire documentazione tecnica utile ai processi di digitalizzazione del patrimonio culturale. 
 
 - **[Profilo applicativo METS ECO-MiC](https://github.com/icdp-digital-library/profilo-mets-ecomic)**  
-Profilo applicativo per la metadatazione delle risorse digitali relative ai beni culturali del Ministero della Cultura.
+Profilo applicativo per la metadatazione delle risorse digitali relative ai beni culturali del Ministero della Cultura (ultima versione disponibile: 1.1)
 
 - **[API Pubblica Verifica METS ECO-MiC](https://github.com/icdp-digital-library/API-Verifica-METS-ECOMiC.git)**  
-Documentazione relativa al servizio API pubblica per la verifica di file METS ECO-MiC.
+Documentazione relativa al servizio API pubblica per la verifica di file METS ECO-MiC (ultima versione disponibile: 1.3)
 
 ## Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 
