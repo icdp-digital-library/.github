@@ -13,6 +13,7 @@ Profilo applicativo per la metadatazione delle risorse digitali relative ai beni
 
 - **[API Pubblica Verifica METS ECO-MiC](https://github.com/icdp-digital-library/API-Verifica-METS-ECOMiC.git)**  
 Documentazione relativa al servizio API pubblica per la verifica di file METS ECO-MiC v1.1 (ultima versione disponibile: 1.3)
+Documentazione relativa al servizio API pubblica per la verifica di file METS ECO-MiC v1.2 (ultima versione disponibile: 1.1)
 
 ## Piano nazionale di digitalizzazione del patrimonio culturale (PND)
 
